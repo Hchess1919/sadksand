@@ -1,0 +1,33 @@
+import random
+
+o1=input("1 ögrenci adı yazın")
+o2=input("1 ögrenci adı daha yazın")
+o3=input("1 ögrenci adı daha yazın")
+o4=input("1 ögrenci adı daha yazın")
+o5=input("1 ögrenci daha yazın")
+o6=input("1 ögrenci daha yazın")
+o7=input("1 ögrenci daha yazın")
+o8=input("1 ögrenci daha yazın")
+o9=input("1 ögrenci daha yazın")
+o10=input("1 ögrenci daha yazın")
+o11=input("1 ögrenci daha yazın")
+o12=input("1 ögrenci daha yazın")
+o13=input("1 ögrenci daha yazın")
+o14=input("1 ögrenci daha yazın")
+o15=input("1 ögrenci daha yazın")
+o16=input("1 ögrenci daha yazın")
+o17=input("1 ögrenci daha yazın")
+o18=input("1 ögrenci daha yazın")
+o19=input("1 ögrenci daha yazın")
+o20=input("1 ögrenci daha yazın")
+o21=input("1 ögrenci daha yazın")
+o22=input("1 ögrenci daha yazın")
+o23=input("1 ögrenci daha yazın")
+o24=input("1 ögrenci daha yazın")
+o25=input("1 ögrenci daha yazın")
+o26=input("Son 1 ögrenci daha yazın")
+
+sinif=[o1,o2,o3,o4,o5,o6,o7,o8,o9,o10,o11,o12,o13,o14,o15,o16,o17,o18.o19,o20,o21,o22,o23,o24,o25,o26,]
+
+print("kurada çıkan öğrenci:")
+print(random.choice(sinif))
