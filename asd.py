@@ -20,4 +20,4 @@ for hak in range (5):
 print(':( uzuldum ama 5 hakinda bitti :(')
 print('💔💔💔💔💔')
 print('cevap', tutulan)
-exit()
+exit()  
